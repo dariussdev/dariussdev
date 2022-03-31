@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Darius
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on developer interships 
+- 👀 I’m interested in Data Science and Data Analysis.
+- 🌱 I’m currently learning Python, SQL and other.
+- 💞️ I’m looking to collaborate on developer and data analysis interships. 
 - 📫 +40749956235
 
 <!---
